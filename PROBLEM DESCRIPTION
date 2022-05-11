@@ -1,0 +1,6 @@
+Shortest path problem is about finding a path between two vertices in such a way that this path will satisfy some criteria of optimization .
+It can be determined by DIJKSTRA,S algorithm.
+
+DIJKSTRA,S algorithm is single source initiated shortest path algorithm.
+
+The graph used to implement the DIJKSTRA,S algorithm is attached and the code is done using adjacency matrix representations of graph.
